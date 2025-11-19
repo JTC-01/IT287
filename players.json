@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Gorak",
+    "race": "Unknown",
+    "strength": "18",
+    "agility": "12",
+    "constitution": "16",
+    "armor": "5",
+    "current_hp": "10"
+  },
+  {
+    "name": "Elira",
+    "race": "Elf",
+    "strength": "10",
+    "agility": "18",
+    "constitution": "12",
+    "armor": "2",
+    "current_hp": "32"
+  },
+  {
+    "name": "Thorn",
+    "race": "Human",
+    "strength": "14",
+    "agility": "14",
+    "constitution": "14",
+    "armor": "3",
+    "current_hp": "38"
+  },
+  {
+    "name": "Vexa",
+    "race": "Drow",
+    "strength": "12",
+    "agility": "16",
+    "constitution": "11",
+    "armor": "4",
+    "current_hp": "25"
+  },
+  {
+    "name": "Borgak",
+    "race": "Troll",
+    "strength": "20",
+    "agility": "8",
+    "constitution": "19",
+    "armor": "6",
+    "current_hp": "50"
+  },
+  {
+    "name": "Harold",
+    "race": "Unknown",
+    "strength": "12",
+    "agility": "12",
+    "constitution": "15",
+    "armor": "2",
+    "current_hp": "30"
+  },
+  {
+    "name": "Joe",
+    "race": "Unknown",
+    "strength": "16",
+    "agility": "10",
+    "constitution": "11",
+    "armor": "2",
+    "current_hp": "22"
+  },
+  {
+    "name": "Leonitus",
+    "race": "Unknown",
+    "strength": "11",
+    "agility": "12",
+    "constitution": "17",
+    "armor": "2",
+    "current_hp": "34"
+  },
+  {
+    "name": "John",
+    "race": "Unknown",
+    "strength": "8",
+    "agility": "11",
+    "constitution": "8",
+    "armor": "2",
+    "current_hp": "16"
+  },
+  {
+    "name": "Cortona",
+    "race": "Unknown",
+    "strength": "8",
+    "agility": "17",
+    "constitution": "18",
+    "armor": "2",
+    "current_hp": "36"
+  },
+  {
+    "name": "Arbiter",
+    "race": "Unknown",
+    "strength": "14",
+    "agility": "13",
+    "constitution": "13",
+    "armor": "2",
+    "current_hp": "26"
+  },
+  {
+    "name": "Johnson",
+    "race": "Unknown",
+    "strength": "15",
+    "agility": "13",
+    "constitution": "16",
+    "armor": "2",
+    "current_hp": "32"
+  },
+  {
+    "name": "Frank",
+    "race": "Unknown",
+    "strength": "11",
+    "agility": "9",
+    "constitution": "15",
+    "armor": "2",
+    "current_hp": "30"
+  }
+]
